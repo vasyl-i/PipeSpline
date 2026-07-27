@@ -1,0 +1,40 @@
+# Unreal Engine
+
+## Build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+## Generated files
+_GENERATED/
+Content/_GENERATED/
+Content/Main_HLOD*.uasset
+
+## External actors/objects (World Partition - regenerated on load)
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
+## IDE / Editor
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Compiled assets
+*.elf
+*.exe
+*.dylib
+*.so
+*.dll
+*.a
+*.lib
